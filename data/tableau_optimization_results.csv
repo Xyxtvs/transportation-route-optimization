@@ -1,0 +1,61 @@
+lane_name,origin_city,destination_city,avg_fuel_cost_per_mile,optimal_departure_time,avg_mpg,best_case_mpg,worst_case_mpg,potential_savings_per_trip,annual_savings_estimate,recommendation
+Chicago-Atlanta,Chicago,Atlanta,0.6532,01:00:00,5.77,7.17,4.4,118.1,5905.06,Depart at 1:00 on Sunday    for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Los Angeles-Phoenix,Los Angeles,Phoenix,0.7635,13:00:00,5.91,7.01,4.49,98.51,4925.67,Depart at 13:00 on Wednesday for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Chicago-Atlanta,Chicago,Atlanta,0.6094,00:00:00,6.11,7.01,4.81,78.89,3944.6,Depart at 0:00 on Sunday    for optimal fuel efficiency. Expect Partly Cloudy conditions for best MPG.
+Chicago-Atlanta,Chicago,Atlanta,0.6182,06:00:00,6.08,7.15,4.97,78.24,3911.89,Depart at 6:00 on Tuesday   for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Phoenix-Las Vegas,Phoenix,Las Vegas,0.7377,03:00:00,6.06,7.03,4.83,71.34,3566.9,Depart at 3:00 on Saturday  for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Phoenix-Las Vegas,Phoenix,Las Vegas,0.751,00:00:00,5.9,6.82,5.16,61.94,3096.77,Depart at 0:00 on Friday    for optimal fuel efficiency. Expect Partly Cloudy conditions for best MPG.
+Denver-Salt Lake City,Denver,Salt Lake City,0.6258,22:00:00,5.98,7.18,4.71,61.13,3056.48,Depart at 22:00 on Monday    for optimal fuel efficiency. Expect Partly Cloudy conditions for best MPG.
+Denver-Salt Lake City,Denver,Salt Lake City,0.6205,22:00:00,6.01,6.97,4.47,55.71,2785.47,Depart at 22:00 on Sunday    for optimal fuel efficiency. Expect Cloudy conditions for best MPG.
+Denver-Salt Lake City,Denver,Salt Lake City,0.6286,02:00:00,5.97,6.93,5.17,50.49,2524.48,Depart at 2:00 on Friday    for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Dallas-Houston,Dallas,Houston,0.7047,14:00:00,5.78,6.62,4.61,45.32,2265.97,Depart at 14:00 on Tuesday   for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Miami-Jacksonville,Miami,Jacksonville,0.6602,10:00:00,5.77,6.81,4.62,44.16,2208.0,Depart at 10:00 on Saturday  for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Los Angeles-Phoenix,Los Angeles,Phoenix,0.7628,22:00:00,5.94,6.89,4.93,43.04,2151.96,Depart at 22:00 on Thursday  for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Minneapolis-Milwaukee,Minneapolis,Milwaukee,0.6389,22:00:00,5.89,7.01,4.29,41.86,2092.77,Depart at 22:00 on Thursday  for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Miami-Jacksonville,Miami,Jacksonville,0.6592,05:00:00,5.78,6.91,4.45,41.64,2082.22,Depart at 5:00 on Wednesday for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Dallas-Houston,Dallas,Houston,0.6751,22:00:00,6.26,7.09,5.18,39.4,1969.76,Depart at 22:00 on Tuesday   for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Los Angeles-Phoenix,Los Angeles,Phoenix,0.7642,22:00:00,5.99,6.79,4.59,37.82,1890.97,Depart at 22:00 on Sunday    for optimal fuel efficiency. Expect Partly Cloudy conditions for best MPG.
+Dallas-Houston,Dallas,Houston,0.6301,08:00:00,6.38,7.08,5.75,36.34,1817.03,Depart at 8:00 on Friday    for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Phoenix-Las Vegas,Phoenix,Las Vegas,0.7686,12:00:00,5.93,6.9,4.61,36.09,1804.55,Depart at 12:00 on Friday    for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Minneapolis-Milwaukee,Minneapolis,Milwaukee,0.6359,07:00:00,5.91,7.05,4.6,35.86,1792.92,Depart at 7:00 on Friday    for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Miami-Jacksonville,Miami,Jacksonville,0.6535,19:00:00,5.8,6.62,4.73,31.32,1566.08,Depart at 19:00 on Friday    for optimal fuel efficiency. Expect Cloudy conditions for best MPG.
+Seattle-Portland,Seattle,Portland,0.7497,07:00:00,5.85,6.96,4.72,29.7,1485.16,Depart at 7:00 on Tuesday   for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Kansas City-St Louis,Kansas City,St Louis,0.6087,17:00:00,6.13,7.16,4.81,29.66,1482.78,Depart at 17:00 on Saturday  for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Minneapolis-Milwaukee,Minneapolis,Milwaukee,0.6389,16:00:00,5.9,6.74,4.27,29.53,1476.65,Depart at 16:00 on Sunday    for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Kansas City-St Louis,Kansas City,St Louis,0.6522,11:00:00,5.75,7.02,4.84,29.3,1465.01,Depart at 11:00 on Thursday  for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Kansas City-St Louis,Kansas City,St Louis,0.6332,09:00:00,5.88,7.11,4.38,27.55,1377.69,Depart at 9:00 on Sunday    for optimal fuel efficiency. Expect Cloudy conditions for best MPG.
+Seattle-Portland,Seattle,Portland,0.7201,17:00:00,6.14,6.82,4.88,27.28,1364.25,Depart at 17:00 on Wednesday for optimal fuel efficiency. Expect Partly Cloudy conditions for best MPG.
+Boston-New York,Boston,New York,0.674,14:00:00,5.64,6.8,4.75,27.17,1358.62,Depart at 14:00 on Sunday    for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Seattle-Portland,Seattle,Portland,0.743,00:00:00,6.05,6.76,4.7,27.11,1355.27,Depart at 0:00 on Thursday  for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Detroit-Cleveland,Detroit,Cleveland,0.6485,09:00:00,5.77,6.99,4.46,24.99,1249.43,Depart at 9:00 on Tuesday   for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Charlotte-Charleston,Charlotte,Charleston,0.6392,15:00:00,5.99,7.13,4.68,24.4,1220.0,Depart at 15:00 on Monday    for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Charlotte-Charleston,Charlotte,Charleston,0.6656,12:00:00,5.71,6.68,4.43,21.74,1087.23,Depart at 12:00 on Monday    for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Columbus-Pittsburgh,Columbus,Pittsburgh,0.6471,09:00:00,5.8,6.75,4.73,21.57,1078.32,Depart at 9:00 on Friday    for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Boston-New York,Boston,New York,0.6448,11:00:00,5.88,6.93,4.72,20.57,1028.39,Depart at 11:00 on Monday    for optimal fuel efficiency. Expect Cloudy conditions for best MPG.
+Charlotte-Charleston,Charlotte,Charleston,0.6309,23:00:00,5.98,6.99,5.13,20.45,1022.44,Depart at 23:00 on Monday    for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Detroit-Cleveland,Detroit,Cleveland,0.6677,13:00:00,5.63,6.5,4.76,20.21,1010.32,Depart at 13:00 on Monday    for optimal fuel efficiency. Expect Cloudy conditions for best MPG.
+Columbus-Pittsburgh,Columbus,Pittsburgh,0.6296,07:00:00,5.93,7.06,4.69,18.68,934.1,Depart at 7:00 on Saturday  for optimal fuel efficiency. Expect Cloudy conditions for best MPG.
+Memphis-Nashville,Memphis,Nashville,0.6094,13:00:00,6.12,7.09,5.26,18.63,931.37,Depart at 13:00 on Sunday    for optimal fuel efficiency. Expect Cloudy conditions for best MPG.
+San Francisco-Sacramento,San Francisco,Sacramento,0.755,17:00:00,5.97,6.83,4.74,18.43,921.63,Depart at 17:00 on Tuesday   for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Memphis-Nashville,Memphis,Nashville,0.6145,23:00:00,6.13,6.85,4.81,18.02,900.81,Depart at 23:00 on Thursday  for optimal fuel efficiency. Expect Cloudy conditions for best MPG.
+Memphis-Nashville,Memphis,Nashville,0.6125,23:00:00,6.04,6.79,5.0,17.2,860.18,Depart at 23:00 on Sunday    for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Columbus-Pittsburgh,Columbus,Pittsburgh,0.619,03:00:00,6.04,7.02,4.88,16.19,809.31,Depart at 3:00 on Tuesday   for optimal fuel efficiency. Expect Partly Cloudy conditions for best MPG.
+Boston-New York,Boston,New York,0.6492,08:00:00,5.77,6.51,5.19,15.83,791.6,Depart at 8:00 on Saturday  for optimal fuel efficiency. Expect Clear conditions for best MPG.
+San Antonio-Austin,San Antonio,Austin,0.6681,02:00:00,6.02,7.17,4.56,15.71,785.73,Depart at 2:00 on Wednesday for optimal fuel efficiency. Expect Cloudy conditions for best MPG.
+Indianapolis-Cincinnati,Indianapolis,Cincinnati,0.6409,16:00:00,5.85,7.14,4.71,12.22,611.2,Depart at 16:00 on Monday    for optimal fuel efficiency. Expect Partly Cloudy conditions for best MPG.
+New York-Philadelphia,New York,Philadelphia,0.6601,20:00:00,5.72,7.05,4.73,11.85,592.49,Depart at 20:00 on Wednesday for optimal fuel efficiency. Expect Clear conditions for best MPG.
+New York-Philadelphia,New York,Philadelphia,0.6422,18:00:00,5.88,7.1,4.61,11.82,590.83,Depart at 18:00 on Monday    for optimal fuel efficiency. Expect Cloudy conditions for best MPG.
+San Francisco-Sacramento,San Francisco,Sacramento,0.8001,15:00:00,5.68,6.64,4.78,11.17,558.27,Depart at 15:00 on Saturday  for optimal fuel efficiency. Expect Clear conditions for best MPG.
+New York-Philadelphia,New York,Philadelphia,0.6449,18:00:00,5.92,7.11,4.79,10.96,547.75,Depart at 18:00 on Friday    for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Tampa-Orlando,Tampa,Orlando,0.6486,12:00:00,5.88,6.85,4.45,10.56,528.21,Depart at 12:00 on Wednesday for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Tampa-Orlando,Tampa,Orlando,0.6445,22:00:00,5.95,6.93,4.25,9.57,478.44,Depart at 22:00 on Saturday  for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Detroit-Cleveland,Detroit,Cleveland,0.6188,10:00:00,6.03,6.52,5.31,9.32,465.75,Depart at 10:00 on Saturday  for optimal fuel efficiency. Expect Partly Cloudy conditions for best MPG.
+Indianapolis-Cincinnati,Indianapolis,Cincinnati,0.6175,19:00:00,6.05,6.96,4.92,9.02,451.21,Depart at 19:00 on Tuesday   for optimal fuel efficiency. Expect Partly Cloudy conditions for best MPG.
+Indianapolis-Cincinnati,Indianapolis,Cincinnati,0.5989,15:00:00,6.24,7.17,5.17,8.98,449.24,Depart at 15:00 on Tuesday   for optimal fuel efficiency. Expect Clear conditions for best MPG.
+San Francisco-Sacramento,San Francisco,Sacramento,0.7466,22:00:00,6.08,7.04,4.77,8.9,445.16,Depart at 22:00 on Monday    for optimal fuel efficiency. Expect Clear conditions for best MPG.
+San Antonio-Austin,San Antonio,Austin,0.6633,06:00:00,6.03,6.84,4.76,8.89,444.38,Depart at 6:00 on Monday    for optimal fuel efficiency. Expect Cloudy conditions for best MPG.
+Tampa-Orlando,Tampa,Orlando,0.6314,03:00:00,6.0,7.08,4.84,8.55,427.53,Depart at 3:00 on Friday    for optimal fuel efficiency. Expect Clear conditions for best MPG.
+San Antonio-Austin,San Antonio,Austin,0.7481,14:00:00,5.71,6.96,4.72,8.54,427.0,Depart at 14:00 on Friday    for optimal fuel efficiency. Expect Partly Cloudy conditions for best MPG.
+Baltimore-Washington DC,Baltimore,Washington DC,0.6729,22:00:00,5.63,6.88,4.59,5.57,278.62,Depart at 22:00 on Thursday  for optimal fuel efficiency. Expect Clear conditions for best MPG.
+Baltimore-Washington DC,Baltimore,Washington DC,0.6218,16:00:00,6.04,6.65,5.16,2.9,145.09,Depart at 16:00 on Saturday  for optimal fuel efficiency. Expect Partly Cloudy conditions for best MPG.
+Baltimore-Washington DC,Baltimore,Washington DC,0.6064,12:00:00,6.2,6.93,4.91,2.62,131.23,Depart at 12:00 on Saturday  for optimal fuel efficiency. Expect Partly Cloudy conditions for best MPG.
