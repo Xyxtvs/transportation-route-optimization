@@ -15,8 +15,10 @@ historical trip data to identify optimization opportunities.
 
 ### Scaled Impact
 
-For a 100-truck fleet: **$890,000 annual savings**  
-3-year ROI: **$2.67 million**
+For a 100-truck fleet:
+**$890,000 annual savings**
+
+3 year ROI: **$2.67 million**
 
 ## Technical Approach
 
@@ -130,5 +132,6 @@ opportunities.
 ## Contact
 
 Yogape Rodriguez  
-Data Analyst | Logistics & Supply Chain Optimization  
-LinkedIn | GitHub | Portfolio Site
+Data Analyst | Logistics & Supply Chain Optimization
+
+http://www.linkedin.com/in/yogape
