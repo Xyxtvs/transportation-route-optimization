@@ -8,10 +8,10 @@ historical trip data to identify optimization opportunities.
 
 ## Key Findings
 
-- **$88,928 annual savings potential** across 20 analyzed freight corridors
-- **27% MPG improvement** possible through weather-aware routing
-- **Early morning departures** (1-5am) show 8% better fuel efficiency
-- **Clear weather routing** yields 6.28 MPG vs 4.90 MPG in snow
+- **$88,928 annual savings potential** across 20 analyzed freight corridors.
+- **27% MPG improvement** possible through weather-aware routing.
+- **Early morning departures** (1-5am) show 8% better fuel efficiency.
+- **Clear weather routing** yields 6.28 MPG vs 4.90 MPG in snow.
 
 ### Scaled Impact
 
@@ -133,5 +133,4 @@ opportunities.
 
 Yogape Rodriguez  
 Data Analyst | Logistics & Supply Chain Optimization
-
-http://www.linkedin.com/in/yogape
+| [LinkedIn](http://www.linkedin.com/in/yogape)
